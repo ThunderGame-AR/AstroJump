@@ -22,11 +22,11 @@ In qualità di principale sviluppatore del progetto, con l'aiuto dell'AI mi sono
 ---
 
 ## 👥 Crediti Team "Code-Inc."
-Sebbene io, Alessandro Romagnoni, abbia curato l'intero sviluppo del codice e l'assemblaggio dei livelli, il progetto include i seguenti contributi dei membri del team:
-- **Soundtrack Originale:** Alessandro Miano
-- **Modello 3D Cannone:** Filippo Terragni
-- **Modello 3D Elica:** Lorenzo Ghislandi
-- **Modelli 3D Piattaforme & Cristalli:** Enrico Arcari
+Sebbene io, Alessandro Romagnoni (https://www.linkedin.com/in/alessandro-romagnoni-ab175a3aa/), abbia curato l'intero sviluppo del codice e l'assemblaggio dei livelli, il progetto include i seguenti contributi dei membri del team:
+- **Original Soundtracks:** Alessandro Miano (https://www.linkedin.com/in/alessandro-miano-b08010389/)
+- **Cannon Model:** Filippo Terragni
+- **Propeller Model:** Lorenzo Ghislandi (https://www.linkedin.com/in/lorenzo-ghislandi-2b71613a7/)
+- **Platform & Crystal Models:** Enrico Arcari (https://www.linkedin.com/in/enrico-arcari-0956763aa/)
 
 ---
 
